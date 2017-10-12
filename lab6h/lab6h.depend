@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507837184 source:c:\users\c_t264\desktop\lab6h\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+
